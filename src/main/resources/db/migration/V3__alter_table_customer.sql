@@ -1,1 +1,1 @@
-ALTER TABLE customer ADD COLUMN income decimal
+ALTER TABLE customer ADD COLUMN income decimal NOT NULL
