@@ -2,7 +2,7 @@
 
 This is my first API in Kotlin develop in DIO course.
 
-## Tecnologies used
+## Technologies used
 
 <p>
      <a>
