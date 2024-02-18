@@ -11,9 +11,8 @@ spring:
           web-allow-others: false
   jpa:
     show-sql: true
-    hibernate:
-      properties:
-        hibernate.format_sql: true
+    properties:
+      hibernate.format_sql: true
 springdoc:
   swagger-ui:
     path: /swagger-ui.html
